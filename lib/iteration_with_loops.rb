@@ -13,8 +13,3 @@ def join_nested_strings(src)
 end
 final_string
 end
-
-  
-
-  final_string
-end
